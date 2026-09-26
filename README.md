@@ -3,7 +3,7 @@
 Coursework from my time at UCF, sorted by class so it's actually easy to find anything.
 
 ## COP3502C (Programming 1, Fall 2025)
-Labs and program assignments (PA1 through PA4). There's also an `extra-practice` folder for stuff I wrote just to mess around with a concept, not actual graded submissions, and a `_duplicates-feel-free-to-delete` folder holding a few files I accidentally uploaded twice back when I first dumped everything into this repo.
+Labs and program assignments (PA1 through PA4). There's also an `extra-practice` folder for stuff I wrote just to mess around with a concept, not actual graded submissions.
 
 ## COP3503C (Programming 2, Summer 2026)
 Java assignments.
